@@ -1,0 +1,12 @@
+body{
+    overflow-x: hidden;
+}
+nav {
+    height: 100vh;
+}
+.bgChess:nth-child(odd) {
+    background: #e6e6e6;
+}
+.bgChess:nth-child(even) {
+    background: #fff;
+}
